@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sahil Lihas
+# 👋 Hi, I'm Sahil Sahil
 
 ### 🧑‍🔬 Data Scientist | Researcher | AI Explorer
 
